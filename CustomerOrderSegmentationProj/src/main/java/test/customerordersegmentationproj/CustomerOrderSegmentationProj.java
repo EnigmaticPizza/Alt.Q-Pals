@@ -17,6 +17,6 @@ public class CustomerOrderSegmentationProj {
 
         System.out.println("Hello World!");
         System.out.println(x + y + z);
-
+System.out.println(x+y); 
     }
 }
