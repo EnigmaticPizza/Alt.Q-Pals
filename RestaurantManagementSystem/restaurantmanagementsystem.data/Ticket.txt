@@ -1,0 +1,2 @@
+1|burger,food,kitchen,55.0;fries,food,kitchen,10.0;coke,Drink,barista,50.0
+2|spanishlatte,drink,barista,10.0;fries,food,kitchen,10.0

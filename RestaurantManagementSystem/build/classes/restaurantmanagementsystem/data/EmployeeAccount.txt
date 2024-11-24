@@ -1,0 +1,6 @@
+Kaezzar,12345,MANAGER,12345
+Ilia,12345,Counter,12345
+Vhincent,12345,Kitchen staff,12345
+Ivan,12345,Barista,12345
+burat,69,barista,69
+enoi,155,Counter,12345
